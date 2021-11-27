@@ -1,0 +1,6 @@
+mbs, Chung khoan Saigon, 15, 20, 100
+vci, Chung khoan Ban Viet, 16, 36, 100
+tcb, Ngan hang Ky Thuong, 55, 15, 100
+abc, Ngan hang A Chau, 200, 10, 100
+tdc, Phat trien Binh Duong, 20, 45, 100
+bts, Xi mang But Son, 10, 130, 100
